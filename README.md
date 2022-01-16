@@ -19,11 +19,12 @@ sampleimages
 
 
 Functionality & Concepts used :
-**firestore database**
-navigation somponent
-recycler view
-splash screen
+firestore database,
+navigation component,
+recycler view,
+splash screen,
 and many more.
+
 
 
 Application Link & Future Scope :
