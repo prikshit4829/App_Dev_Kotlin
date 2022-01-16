@@ -8,19 +8,16 @@ different club use different social media platform to notify the students about 
 Proposed Solution :
 
 This project proposes a “club events ” to keep track of the college club events and provides all the information about it.
+the admin can directly upload event poster in firebase app store and it would be displayed in user app.
 
 sampleimages
 
 
-<img width="203" alt="app" src="https://user-images.githubusercontent.com/94797459/149672369-520a4966-d1f1-494e-bbab-a9977bd3007e.png">
-
-
-
-<img width="197" alt="splashscreen" src="https://user-images.githubusercontent.com/94797459/149672381-8657c8bb-0ca3-487e-b9f7-c2246449449c.png">
+<img width="203" alt="app" src="https://user-images.githubusercontent.com/94797459/149672369-520a4966-d1f1-494e-bbab-a9977bd3007e.png"><img width="197" alt="splashscreen" src="https://user-images.githubusercontent.com/94797459/149672381-8657c8bb-0ca3-487e-b9f7-c2246449449c.png">
 
 
 Functionality & Concepts used :
-firestore database
+**firestore database**
 navigation somponent
 recycler view
 splash screen
