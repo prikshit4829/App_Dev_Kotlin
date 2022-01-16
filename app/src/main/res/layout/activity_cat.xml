@@ -11,8 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:textSize="40sp"
-        android:id="@+id/catTitle"
-        android:text="@string/sample"/>
+        android:id="@+id/catTitle"/>
 
 
     <TextView
@@ -21,8 +20,7 @@
         android:layout_marginStart="20dp"
         android:textSize="20sp"
         android:layout_below="@+id/catTitle"
-        android:id="@+id/catCount"
-        android:text="@string/sample"/>
+        android:id="@+id/catCount"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
