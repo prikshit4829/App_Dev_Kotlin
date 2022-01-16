@@ -21,12 +21,16 @@ class CatActivity : AppCompatActivity() {
 
         val db= FirebaseFirestore.getInstance()
         val uid = intent.getStringExtra("uid")
+        val name = intent.getStringExtra("name")
 
         db.collection("clubs").document(uid!!).collection("events").addSnapshotListener { value, error ->
 
             val listOfCatPoster = arrayListOf<OngoModel>()
             val data = value?.toObjects(OngoModel::class.java)
             listOfCatPoster.addAll(data!!)
+
+            binding.catTitle.text=name.toString()
+            binding.catCount.text="${listOfCatPoster.size.toString()} wallpaper available"
 
             binding.catRcv.layoutManager=StaggeredGridLayoutManager(2,StaggeredGridLayoutManager.VERTICAL)
             binding.catRcv.adapter=CatImagesAdapter(this,listOfCatPoster)
