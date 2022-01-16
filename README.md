@@ -14,6 +14,8 @@ sampleimages
 
 
 <img width="203" alt="app" src="https://user-images.githubusercontent.com/94797459/149672369-520a4966-d1f1-494e-bbab-a9977bd3007e.png"><img width="197" alt="splashscreen" src="https://user-images.githubusercontent.com/94797459/149672381-8657c8bb-0ca3-487e-b9f7-c2246449449c.png">
+<img width="960" alt="Screenshot 2022-01-16 234557" src="https://user-images.githubusercontent.com/94797459/149672526-b0b52349-83f3-4579-a7d2-ea659db31420.png">
+
 
 
 Functionality & Concepts used :
