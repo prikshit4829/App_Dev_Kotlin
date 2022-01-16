@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039751254295",
+    "project_id": "aitclubfirestore",
+    "storage_bucket": "aitclubfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039751254295:android:f9eb7b4933d8797a2a2752",
+        "android_client_info": {
+          "package_name": "com.example.aitclubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039751254295-7nnik9qbocsev4jsnd78jbleq6arq4k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwztwTiaN_QulPwmITnpe_E8bE_uG2J2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039751254295-7nnik9qbocsev4jsnd78jbleq6arq4k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

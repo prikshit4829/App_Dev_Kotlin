@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/priks/AndroidStudioProjects/AITClubs/app/src/main/res/drawable/bottom_shape.xml" value="0.1984375" />
+        <entry key="..\:/Users/priks/AndroidStudioProjects/AITClubs/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/priks/AndroidStudioProjects/AITClubs/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Users/priks/AndroidStudioProjects/AITClubs/app/src/main/res/layout/fragment_home.xml" value="0.1794871794871795" />
+        <entry key="..\:/Users/priks/AndroidStudioProjects/AITClubs/app/src/main/res/layout/fragment_like.xml" value="0.1794871794871795" />
+        <entry key="..\:/android study jam/AITClubs/app/src/main/res/layout/activity_cat.xml" value="0.10144927536231885" />
+        <entry key="..\:/android study jam/AITClubs/app/src/main/res/layout/activity_final_poster.xml" value="0.10144927536231885" />
+        <entry key="..\:/android study jam/AITClubs/app/src/main/res/layout/fragment_home.xml" value="0.10144927536231885" />
+        <entry key="..\:/android study jam/AITClubs/app/src/main/res/layout/item_cat.xml" value="0.22" />
+        <entry key="..\:/android study jam/AITClubs/app/src/main/res/layout/item_ongo.xml" value="0.22" />
+        <entry key="..\:/android study jam/AITClubs/app/src/main/res/layout/item_poster.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

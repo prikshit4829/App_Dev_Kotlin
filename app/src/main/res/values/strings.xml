@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AIT Clubs</string>
+    <string name="club_activities">CLUB ACTIVITIES</string>
+    <string name="by_title">For \n ARMY INSTITUTE OF TECHNOLOGY, PUNE</string>
+    <string name="ait_logo">ait logo</string>
+    <string name="app_logo">app logo</string>
+    <string name="ait_clubs">AIT CLUBS</string>
+    <string name="home">home</string>
+    <string name="like">like</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="like_fragment">Like Fragment</string>
+    <string name="liked">Liked</string>
+    <string name="on_going_events">On Going Events</string>
+    <string name="upcoming_events">Upcoming events</string>
+    <string name="find_by_clubs">Find By Clubs</string>
+    <string name="oss_club">OSS Club</string>
+    <string name="sample">sample</string>
+</resources>
