@@ -30,7 +30,7 @@ class CatActivity : AppCompatActivity() {
             listOfCatPoster.addAll(data!!)
 
             binding.catTitle.text=name.toString()
-            binding.catCount.text="${listOfCatPoster.size.toString()} wallpaper available"
+            binding.catCount.text="${listOfCatPoster.size.toString()} event available"
 
             binding.catRcv.layoutManager=StaggeredGridLayoutManager(2,StaggeredGridLayoutManager.VERTICAL)
             binding.catRcv.adapter=CatImagesAdapter(this,listOfCatPoster)

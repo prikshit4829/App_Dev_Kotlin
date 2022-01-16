@@ -32,7 +32,7 @@ class CatAdapter(val requireContext: Context, val listOfCat: ArrayList<catModel>
         holder.itemView.setOnClickListener {
             val intent= Intent(requireContext,CatActivity::class.java)
             intent.putExtra("uid",listOfCat[position].id)
-            intent.putExtra("uid",listOfCat[position].name)
+            intent.putExtra("name",listOfCat[position].name)
             requireContext.startActivity(intent)
         }
     }
