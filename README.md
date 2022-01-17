@@ -27,6 +27,9 @@ splash screen,
 and many more.
 
 
+link for apk file:  https://drive.google.com/file/d/14VeRFRZ9k2Jw-kJKBpNl-Uz3OyEY2i1_/view?usp=sharing
+
+
 
 Application Link & Future Scope :
 
