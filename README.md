@@ -33,5 +33,5 @@ link for apk file:  https://drive.google.com/file/d/14VeRFRZ9k2Jw-kJKBpNl-Uz3OyE
 
 Application Link & Future Scope :
 
-its under buil and testing phase.
-its not fully build it is just a sample tamplete for now
+its under build and testing phase.
+its not fully build and just a sample template for now
